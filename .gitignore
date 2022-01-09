@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+
+# history
+.history
+
+#env
+nodemon.json
