@@ -4,5 +4,4 @@ package-lock.json
 # history
 .history
 
-#env
-nodemon.json
+

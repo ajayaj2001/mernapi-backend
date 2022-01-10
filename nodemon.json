@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGODB_KEY": "mongodb+srv://ajay:re87omYqJpfYoOxP@cluster0.cprl8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+}
